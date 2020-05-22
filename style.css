@@ -6,9 +6,27 @@ body {
     color: grey;
     font-family: verdana;
     text-align: center;
+    border-style: solid;
+    border-color: silver;
+    font-weight: lighter;
+  }
+
+  h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: gray;
+    font-weight: lighter;
+  }
+
+  h2, h3, h4, h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   p {
     font-family: verdana;
     font-size: 20px;
+  }
+
+  li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
